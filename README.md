@@ -24,7 +24,7 @@ A **Next.js–based web application** for booking and managing doctor appointmen
 
 ## 📸 Screenshots
 
-![Home Screen](Home%20screen.png)
+![Home Screen](home%20screen.png)
 
 ```md
 ![Home Page](path/to/image.png)
