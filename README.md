@@ -34,6 +34,7 @@ _Add project images here_
 
 ## 🚀 Getting Started
 
+```bash
 # Clone the repository
 git clone https://github.com/ojasviranaiitism/doctors-appointment-platform.git
 
