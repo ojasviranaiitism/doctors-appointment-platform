@@ -16,9 +16,8 @@ A **Next.js–based web application** for booking and managing doctor appointmen
 
 ## 🛠 Tech Stack
 
-- **Frontend:** Next.js, React  
-- **Styling:** CSS / Tailwind (update if needed)  
-- **Backend / DB:** (Add here if applicable)
+- **Frontend:** Next.js, React, ShadcnUI
+- **Backend / DB:** Neon(PostgreSQL), Prisma, Vonage(realtime video conferencing API)
 
 ---
 
